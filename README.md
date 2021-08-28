@@ -8,7 +8,9 @@ Of course, after understanding these milestones, you should go through deep lear
 Deep learning is one of the main part of computer vision because life is not linear at all so we are mostly needed neural networks to analyse and solve our problems.\
 Feel free to check the Deep Learning repo to find Customized Neural Networks, YOLOv3 in TF/Keras - PyTorch and more.
 
-### Main resource for this repo
-https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/ \
-*Thanks to Jose Portilla for bringing these resources together.* 
 
+### Reference
+
+    @article{NLP,
+    author={Jose Portilla (Head of Data Science, Pierian Data Inc.)}
+    www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/
