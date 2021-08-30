@@ -11,6 +11,6 @@ Feel free to check the Deep Learning repo to find Customized Neural Networks, YO
 
 ### Reference
 
-    @article{NLP,
+    @article{Computer Vision,
     author={Jose Portilla (Head of Data Science, Pierian Data Inc.)}
     www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/
