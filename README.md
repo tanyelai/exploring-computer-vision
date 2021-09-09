@@ -5,7 +5,7 @@ At project section, there is a good way of making counter for fingers in real ti
 Of course, after understanding these milestones, you should go through deep learning.
 
 ### Why Deep Learning ?
-Deep learning is one of the main part of computer vision because life is not linear at all so we are mostly needed neural networks to analyse and solve our problems.\
+Deep learning has an essential role in computer vision because life is not linear at all, so we are needed neural networks when things become imposible to predict and calculate.\
 Feel free to check the Deep Learning repo to find Customized Neural Networks, YOLOv3 in TF/Keras - PyTorch and more.
 
 
